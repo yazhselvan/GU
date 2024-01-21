@@ -60,9 +60,9 @@ async function fetchData() {
   }
   
 
-//   getCountriesInAsia();
-//   getCountriesWithLowPopulation();
-//   printCountryDetails();
-//   getTotalPopulation();
+  getCountriesInAsia();
+  getCountriesWithLowPopulation();
+  printCountryDetails();
+  getTotalPopulation();
   getCountryWithUSD();
   
